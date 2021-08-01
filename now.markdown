@@ -8,7 +8,7 @@ description: This now page covers the things I’m thinking, feeling, and workin
 layout: page
 ---
 
-<img src="/uploads/latest-selfie-9beec9.jpg" width="1024" height="768" alt="Latest Selfie">
+<img src="/uploads/latest-selfie-c57f62.jpg" width="1024" height="768" alt="Latest Selfie">
 
 **Updated:** [{{ page.date | date: "%B %-d, %Y" }}](https://github.com/mattbischoff/matthewbischoff.com/commits/gh-pages/now.markdown) from {{ page.place }}
 

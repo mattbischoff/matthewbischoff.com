@@ -15,7 +15,7 @@ All the while, Matt and their business partners were working to grow Lickability
 
 Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these topics and others on this [website](https://matthewbischoff.com) and the [Lickability blog](https://lickability.com/blog/).
 
-In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering for [Trans Lifeline](https://www.translifeline.org/). They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342).
+In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, trawling Wikipedia for interesting facts, and volunteering. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy](https://www.j-archive.com/showgame.php?game_id=3342).
 
 ## Work
 

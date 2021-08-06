@@ -25,7 +25,7 @@ Variables
   --spacing-l: calc(var(--font-line-height) * 3);
   --spacing-xl: calc(5rem + 10vh);
 
-  --spacing-maxwidth: 36rem;
+  --spacing-maxwidth: 38rem;
 
   --border-radius: 0.25rem;
 

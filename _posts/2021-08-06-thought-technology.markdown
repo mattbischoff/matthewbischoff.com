@@ -35,6 +35,8 @@ picture:
   alt: Keep moving & get out of the way.
 ---
 
+![22787_zsSi.png](/uploads/22787_zsSi.png)
+
 I was first introduced to the phrase “thought technology” by [Merlin Mann](http://merlinmann.com) and [John Roderick](http://www.johnroderick.com) on their long-running podcast [Roderick on the Line](http://www.merlinmann.com/roderick/ "Roderick on the Line"). A thought technology isn’t quite the same as a belief or a philosophy, and it’s more than just a simple lesson. “[Keep moving & get out of the way”](http://www.merlinmann.com/roderick/ep-01-keep-moving-and-get-out-of-the-way.html) is an example from their first ever episode about how to best traverse a city. Thought technologies like this one are *ways of thinking* about particular problems or situations. They’re technologies in the sense that, like a hammer or a pencil, they can be used to solve problems. Sometimes having the *right* thought at the right time is all you need to move forward, break through, or get unstuck.
 
 Architects and engineers may be familiar with this concept as “[design patterns](https://en.wikipedia.org/wiki/Design_pattern)”: reusable solutions that can be applied repeatedly in the creation of complex systems like buildings or computer programs. It’s not a coincidence that Merlin has also given a [talk at Macworld in 2009](https://www.youtube.com/watch?v=GExHiI_bQqc&feature=emb_title) about design patterns, because the two concepts do share a lot of DNA. But thought technologies, as I understand them, are often more broadly applicable than design patterns, and can even cross disciplines and mediums.

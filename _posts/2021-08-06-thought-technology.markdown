@@ -1,6 +1,6 @@
 ---
 title: Thought Technology
-date: 2021-08-04 18:36:00 -04:00
+date: 2021-08-06 18:36:00 -04:00
 categories:
 - culture
 - tech

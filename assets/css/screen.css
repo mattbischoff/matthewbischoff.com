@@ -73,7 +73,7 @@ html {
 body {
   background-color: var(--color-bg);
   color: var(--color-default);
-  padding: var(--spacing-xm);
+  padding: var(--spacing-m);
   max-width: var(--spacing-maxwidth);
   margin: 0 auto;
 }

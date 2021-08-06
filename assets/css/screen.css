@@ -10,7 +10,7 @@ Variables
   --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
     Consolas, Inconsolatas, monospace;
 
-  --font-default: 20px;
+  --font-default: 19px;
   --font-s: 0.85rem;
   --font-m: 1rem;
   --font-l: 1.5rem;
@@ -22,7 +22,6 @@ Variables
   --spacing-xs: calc(var(--font-line-height) * 0.25);
   --spacing-s: calc(var(--font-line-height) * 0.5);
   --spacing-m: calc(var(--font-line-height) * 1);
-  --spacing-xm: calc(var(--font-line-height) * 1.25);
   --spacing-l: calc(var(--font-line-height) * 3);
   --spacing-xl: calc(5rem + 10vh);
 

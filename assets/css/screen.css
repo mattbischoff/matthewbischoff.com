@@ -165,12 +165,13 @@ ol {
   padding-left: var(--spacing-m);
 }
 
-main > ul,
+// Hanging
+/* main > ul,
 article > ul,
 main > ol,
 article > ol {
   padding-left: 0;
-}
+} */
 
 time,
 time > a {

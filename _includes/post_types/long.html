@@ -11,7 +11,7 @@
 {% if include.post.content contains "<!-- more -->" %}
 {{ include.post.content | split:"<!-- more -->" | first % }}
 <div class="read-more">
-  <a href="{{ include.post.url }}">Read More…</a>
+  <a href="{{ include.post.url }}">Read more…</a>
 </div>
 <div style="display: none;">
   {{ include.post.content | split:"<!-- more -->" | last % }}

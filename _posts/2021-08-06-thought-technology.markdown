@@ -17,7 +17,7 @@ tags:
 - obsidian
 - tiago forte
 - nick milo
-image: "/uploads/22787_zsSi.png"
+image: "/uploads/keep-moving.png"
 description: I was first introduced to the phrase “thought technology” by Merlin Mann
   and John Roderick on their long-running podcast Roderick on the Line. A thought
   technology isn’t quite the same as a belief or a philosophy, and it’s more than
@@ -28,14 +28,14 @@ description: I was first introduced to the phrase “thought technology” by Me
   problems. Sometimes having the *right* thought at the right time is all you need
   to move forward, break through, or get unstuck.
 picture:
-  webp_image: "/uploads/22787_zsSi.png-e0abe6.webp"
-  png_image: "/uploads/22787_zsSi.png"
-  width: 1446
-  height: 1446
+  webp_image: "/uploads/keep-moving.webp"
+  png_image: "/uploads/keep-moving.png"
+  width: 1024
+  height: 1024
   alt: Keep moving & get out of the way.
 ---
 
-![22787_zsSi.png](/uploads/22787_zsSi.png)
+<a href="https://cottonbureau.com/products/keep-moving-get-out-of-the-way">{% include picture.html %}</a>
 
 I was first introduced to the phrase “thought technology” by [Merlin Mann](http://merlinmann.com) and [John Roderick](http://www.johnroderick.com) on their long-running podcast [Roderick on the Line](http://www.merlinmann.com/roderick/ "Roderick on the Line"). A thought technology isn’t quite the same as a belief or a philosophy, and it’s more than just a simple lesson. “[Keep moving & get out of the way”](http://www.merlinmann.com/roderick/ep-01-keep-moving-and-get-out-of-the-way.html) is an example from their first ever episode about how to best traverse a city. Thought technologies like this one are *ways of thinking* about particular problems or situations. They’re technologies in the sense that, like a hammer or a pencil, they can be used to solve problems. Sometimes having the *right* thought at the right time is all you need to move forward, break through, or get unstuck.
 

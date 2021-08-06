@@ -10,7 +10,7 @@ Variables
   --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
     Consolas, Inconsolatas, monospace;
 
-  --font-default: clamp(18px, 2vw + 8px, 22px);
+  --font-default: 20px;
   --font-s: 0.85rem;
   --font-m: 1rem;
   --font-l: 1.5rem;

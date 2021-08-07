@@ -59,6 +59,6 @@ You can [contact Matt here](/contact) or find them online in all of these places
 
 This website is published with [Jekyll](https://jekyllrb.com) and managed in [Siteleaf](https://www.siteleaf.com). It’s hosted on [GitHub](https://github.com/mattbischoff/matthewbischoff.com) and deployed via [GitHub Pages](https://pages.github.com). Posts are written in [Ulysses](https://ulysses.app).
 
-Display Type is set in [FF Tisa Pro](https://fonts.adobe.com/fonts/skolar) by Mitja Miklavčič. Body type is set in [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) by Mark Simonson, Matt’s favorite typeface.
+Display type is set in [FF Tisa Pro](https://fonts.adobe.com/fonts/skolar) by Mitja Miklavčič. Body type is set in [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) by Mark Simonson, Matt’s favorite typeface.
 
 Photos of Matt were taken by Ashe of [Rose Glass Photography](https://www.roseglass.pictures).

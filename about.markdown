@@ -11,7 +11,7 @@ layout: page
 
 Matt began blogging and podcasting in 2003 and got their start in tech as IT Director of [PodcastPeople](https://www.podcastpeople.com/) at age 13. After high school, they studied human-computer interaction at the [New Jersey Institute of Technology](https://www.njit.edu/), before [dropping out](https://matthewbischoff.com/don-t-go-to-college/) to join the mobile team at [The New York Times](https://www.nytimes.com/). They worked at [Tumblr](https://www.tumblr.com/) during its heyday, as an engineer, engineering manager, and product manager.
 
-All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and office prankster (they may have connected a [rotating light](https://www.instagram.com/p/BfouMHbFutA/?igshid=i0757y9umgi8) to HomeKit 🚨).
+All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and token extrovert.
 
 Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these topics and others on this [website](https://matthewbischoff.com) and the [Lickability blog](https://lickability.com/blog/).
 

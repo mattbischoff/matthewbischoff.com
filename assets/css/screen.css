@@ -164,16 +164,15 @@ ol {
   padding-left: var(--spacing-m);
 }
 
-// Hanging
-/* main > ul,
+/*
+ main > ul,
 article > ul,
 main > ol,
 article > ol {
   padding-left: 0;
 } */
 
-time,
-time > a {
+time, time > a {
   font-family: var(--font-sans);
   font-size: var(--font-s);
   color: var(--color-mid);
@@ -314,7 +313,7 @@ address {
 
 main > header {
   text-align: center;
-  padding: var(--spacing-l) 0;
+  padding: var(--spacing-m) 0;
 }
 
 main > header h1,

@@ -15,7 +15,7 @@ All the while, Matt and their business partners were working to grow Lickability
 
 Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://matthewbischoff.com) and on the [company blog](https://lickability.com/blog/).
 
-In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
+In their spare time, Matt enjoys crafting  classic cocktails, going to the theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 
 ## Work
 
@@ -48,7 +48,6 @@ You can [contact Matt here](/contact) or find them online in all of these places
 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  
 🐙 [GitHub](https://github.com/mattbischoff)  
 🌐 [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff)  
-🥃 [Tumblr](https://mttb.me)  
 📚 [Goodreads](https://goodreads.com/matthewbischoff)  
 🎥 [Letterboxd](https://letterboxd.com/matthewbischoff)  
 👽 [Reddit](https://www.reddit.com/user/matthewbischoff/)  

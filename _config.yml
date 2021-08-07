@@ -69,8 +69,9 @@ google_site_verification: XK_j6lkDAd8qOhIn4-2eS2BIJuQyRp4D_gxjpR65wUM
 repository: mattbischoff/matthewbischoff.com
 text_content:
   header_title: Matthew Bischoff
-  subtitle: <a href="http://my.pronoun.is/they">They</a> write about <a href="/category/tech/">technology</a>
-    & <a href="/category/culture/">culture</a> and make apps at <a href="https://lickability.com">Lickability</a>.
+  subtitle: <a href="http://my.pronoun.is/they">They</a>‘’re a designer and developer
+    who writes about <a href="/category/tech/">technology</a> & <a href="/category/culture/">culture</a>
+    and make apps at <a href="https://lickability.com">Lickability</a>.
 navigation_links:
 - title: Home
   url: "/"

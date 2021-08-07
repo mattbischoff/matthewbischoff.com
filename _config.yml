@@ -37,7 +37,8 @@ defaults:
     type: category
   values:
     layout: category
-description: They write about technology & culture and make apps at Lickability.
+description: They design & develop apps at Lickability and post here about tech &
+  culture.
 permalink: "/:title/"
 url: https://matthewbischoff.com
 paginate: 5
@@ -70,7 +71,7 @@ repository: mattbischoff/matthewbischoff.com
 text_content:
   header_title: Matthew Bischoff
   subtitle: <a href="http://my.pronoun.is/they">They</a> design & develop apps at
-    <a href="https://lickability.com">Lickability</a> and write here about <a href="/category/tech/">tech</a>
+    <a href="https://lickability.com">Lickability</a> and post here about <a href="/category/tech/">tech</a>
     & <a href="/category/culture/">culture</a>.
 navigation_links:
 - title: Home

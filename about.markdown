@@ -13,7 +13,7 @@ Matt began blogging and podcasting in 2003 and got their start in tech as IT Dir
 
 All the while, Matt and their business partners were working to grow Lickability from a side project into the [ten-person team](https://lickability.com/about) it is today. In 2015, Matt went full-time at the company, and since then, they’ve worn multiple hats as a product manager, software engineer, sales lead, and token extrovert.
 
-Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these topics and others on this [website](https://matthewbischoff.com) and the [company blog](https://lickability.com/blog/).
+Matt is an acclaimed speaker, giving [talks](https://matthewbischoff.com/category/talks/) at conferences around the globe focused on the intersections of technology and culture. They write about these and other topics [here](https://matthewbischoff.com) and the [company blog](https://lickability.com/blog/).
 
 In their spare time, Matt enjoys making (and drinking) classic cocktails, going to the theatre, and trawling Wikipedia for interesting facts. They’re proudly bisexual, trans, & nonbinary. Oh yeah, and [they were on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342)
 

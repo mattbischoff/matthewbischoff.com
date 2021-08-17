@@ -16,7 +16,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m living in New York City (recently renewed my lease actually), and I’m fully vaccinated, though still being cautious because of the [Delta variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant). 💉
+I’m living in New York City (recently renewed my lease actually). I’m fully vaccinated, though still being cautious because of the [Delta variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant). 💉
 
 My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have been separated by the U.S./Canada border since April. I miss her lots, but I’m excited because I get to see her agin in a few weeks! ✈️
 

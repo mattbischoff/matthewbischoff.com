@@ -4,7 +4,8 @@
     "node_modules",
     ".sass-cache"
   ],
-  "workspace.color" : 8,
+  "workspace.art_style" : 0,
+  "workspace.color" : 7,
   "workspace.name" : "Matthew Bischoff",
   "workspace.preview_append_paths" : false,
   "workspace.preview_type" : "custom",

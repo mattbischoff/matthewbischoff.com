@@ -79,7 +79,9 @@ If you’d like me to have me on your podcast, I’ve got all the time in the wo
 
 Here’s a playlist of the albums that I’m listening to in heavy rotation.
 
-<iframe allow="autoplay \*; encrypted-media \*; fullscreen \*" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heavy-rotation/pl.u-vvRNDtBrg68"></iframe>
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/956991" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
 
 ### Books 📚
 

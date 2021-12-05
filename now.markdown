@@ -16,19 +16,19 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 ## Life 👱🏻
 
-I’m living in New York City but considering where I want to live longterm when Kate moves to the States. I’m fully vaccinated and now boosted, though still being cautious because of the [Omicon variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant). 💉
+I’m living in New York City but looking a Philadelphia or Brooklyn as a potential future move. I’m fully vaccinated and now boosted, though still being cautious because of the [Omicon variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant). 💉
 
-My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>th</sup>, but we already have plans to see each other in January for a weeding! ✈️
+My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>th</sup>, but we already have plans to see each other in January for a wedding! ✈️
 
-I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I met a nonbinary bartender who [complimented my pronoun pin](https://twitter.com/mb/status/1467173074537791489) and my [favorite improv show](https://www.raaaatscraps.com) is back! If you’re in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
+I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I also met a nonbinary bartender who [complimented my pronoun pin](https://twitter.com/mb/status/1467173074537791489). Plus, my [favorite improv show](https://www.raaaatscraps.com) is back, so I’ve been in the front row for that every Sunday night. If you’re in or around NYC and wanna meet up and hang out, [let’s do it](https://matthewbischoff.com/lets-hang-out/)! 👋
 
-For fun I've been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and catching up on my Instapaper and YouTube queues.
+In my spare time, I’ve been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and catching up on my Instapaper and YouTube queues.
 
 ### Feelings 🔮
 
-[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) last year, and it's made me think a lot about how I spend my time and what impact I want to have on the people around me. More to come on that once I have more time to think about it. 
+[I turned 30](https://www.instagram.com/p/CJaNlzXJMy0/) last year, and it’s made me think a lot about how I spend my time and what impact I want to have on the people around me. More to come on that once I have more time to think about it. 
 
-There's *so* much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://transequality.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
+There’s *so* much we need to do in order achieve the massive political change this country needs. Right now I’m advocating for and donating to causes like [Black Lives Matter](https://blacklivesmatter.com), [trans rights](https://transequality.org), [abortion access](https://abortionfunds.org), and [prison abolition](http://criticalresistance.org).
 
 ### Gender 🏳️‍⚧️
 

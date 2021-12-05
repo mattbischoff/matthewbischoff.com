@@ -32,7 +32,7 @@ There's *so* much we need to do in order achieve the massive political change th
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I'm also beginning to explore medical transition options, and I’m excited I'll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I’m also beginning to explore medical transition options, and I’m excited I’ll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
 
 ### 2021 Theme: Invest 📈
 

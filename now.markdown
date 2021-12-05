@@ -20,7 +20,7 @@ I’m living in New York City but considering where I want to live longterm when
 
 My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>th</sup>, but we already have plans to see each other in January for a weeding! ✈️
 
-I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I met a nonbinary bartender who complimented my pronoun pin! If you’re in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
+I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I met a nonbinary bartender who [complimented my pronoun pin](https://twitter.com/mb/status/1467173074537791489) and my [favorite improv show](https://www.raaaatscraps.com) is back! If you’re in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
 
 For fun I've been singing [musical theatre tunes over on TikTok](https://www.tiktok.com/@matthew_bischoff/) and catching up on my Instapaper and YouTube queues.
 
@@ -32,7 +32,7 @@ There's *so* much we need to do in order achieve the massive political change th
 
 ### Gender 🏳️‍⚧️
 
-I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I'm also beginning to explore medical transition options, and I'm excited I'll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
+I [came out as nonbinary](https://twitter.com/mb/status/1150437952155242496) two years ago. I’ve tried a bunch of new clothes, shoes, and makeup recently, and they’re helping me see myself as I am. I'm also beginning to explore medical transition options, and I’m excited I'll be able to have an “X” on my [license](https://www.syracuse.com/state/2020/11/new-york-to-add-nonbinary-gender-option-x-for-drivers-licenses.html) and [passport](https://www.usatoday.com/story/travel/news/2021/07/01/passport-have-new-gender-option-added-non-binary-people/7826603002/) soon.
 
 ### 2021 Theme: Invest 📈
 
@@ -68,15 +68,15 @@ I organize [my bookmarks](https://pinboard.in/u:mattb) on [Pinboard](https://pin
 
 ### Podcasts 🎙
 
-I love listening to (and [guesting on](/about/#podcasts)) podcasts, and being hone alone has allowed me to catch up on my huge backlog. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [Do By Friday](http://dobyfriday.com), [Question Box](https://www.questionboxshow.com), [The Dildorks](http://thedildorks.com), and [You’re Wrong About](https://yourewrongabout.com).
+I love listening to (and [guesting on](/about/#podcasts)) podcasts, and being hone alone has allowed me to catch up on my huge backlog. Some shows I’m binging lately: [Gender Reveal](https://www.genderpodcast.com), [The Dildorks](http://thedildorks.com), and [Cortex](https://relay.fm/cortex).
 
-I’m currently working on a new idea for a show of my own with a new friend. 🤫
+I’m also currently working on a new idea for a show of my own with a new friend. 🤫
 
 If you’d like me to have me on your podcast, I’ve got all the time in the world at the moment and would really love that. [Shoot me an email](mailto:mb@matthewbischoff.com?subject=Podcast), and let’s do it.
 
 ### Music 🎶
 
-Here’s a playlist of the albums that I’m listening to in heavy rotation.
+Here’s a playlist of the songs that I’m listening to in heavy rotation.
 
 <iframe allow="autoplay \*; encrypted-media \*; fullscreen \*" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heavy-rotation/pl.u-vvRNDtBrg68"></iframe>
 

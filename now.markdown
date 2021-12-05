@@ -18,7 +18,7 @@ This *[now page](https://nownownow.com/about)* is [inspired by Derek Sivers](htt
 
 I’m living in New York City but considering where I want to live longterm when Kate moves to the States. I’m fully vaccinated and now boosted, though still being cautious because of the [Omicon variant](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant). 💉
 
-My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>, but we already have plans to see each other in January for a weeding! ✈️
+My wife, [Kate Sloan](https://twitter.com/Girly_Juice) and I have spent the last few months together in New York, and it’s been so nice to be together with her again. I’ll miss her lots when she leaves on December 15<sup>th</sup>, but we already have plans to see each other in January for a weeding! ✈️
 
 I’ve been hanging out with friends and family IRL again and it’s absolutely wonderful. This week I met a nonbinary bartender who complimented my pronoun pin! If you’re in or around NYC and wanna meet up and hang out, [let's do it](https://matthewbischoff.com/lets-hang-out/)! 👋
 

@@ -22,7 +22,7 @@ picture:
 
 {% include picture.html %}
 
-Well, I’m doing it again. 
+Well, I’m doing it again.
 
 Last year for my 30<sup>th</sup> birthday, [we raised over $7,000 for charity](https://matthewbischoff.com/30th-birthday/) on a super fun livestream. This year, we’ll once again be gathering with my pals online and streaming Jackbox Games to raise money for [The Audre Lorde Project](https://translifeline.org):
 
@@ -30,4 +30,4 @@ Last year for my 30<sup>th</sup> birthday, [we raised over $7,000 for charity](h
 
 They do great work in my community and I hope you consider donating.
 
-**Join us tonight 12/29 at 8 PM ET / 5 PM PT [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](http://bit.ly/transdollars).** 🎁
+**Join us tonight 12/29 at 8 PM ET / 5 PM PT [over on Twitch](https://twitch.tv/matthewbischoff) and [donate here](http://bit.ly/helpaudre).** 🎁

@@ -1,6 +1,6 @@
 ---
 title: The Case for “Mark as Unread” in Messages
-date: 2021-12-16 13:39:00 -05:00
+date: 2022-01-09 13:39:00 -05:00
 categories:
 - tech
 tags:

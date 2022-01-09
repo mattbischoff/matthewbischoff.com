@@ -17,14 +17,15 @@ layout:
   </author>
 
   {% for post in site.posts %}
-  <entry>
-    <tweet_text>{{ post.tweet_text }}</tweet_text>
-    <title>{{ post.title | xml_escape }}</title>
+  <entry>      
     {% if post.format == "link" %}
+      <title>{{ post.title | xml_escape }} →</title>
       <link href="{{ post.link | xml_escape }}"/>
     {% else %}
+      <title>{{ post.title | xml_escape }}</title>
       <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
     {% endif %}
+        
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ site.baseurl }}{{ post.url }}</id>
     <content type="html">
@@ -33,6 +34,8 @@ layout:
         <p><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">∞</a></p>
       {% endif %}
     </content>
+    
+    <tweet_text>{{ post.tweet_text }}</tweet_text>
   </entry>
   {% endfor %}
 

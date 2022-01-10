@@ -38,4 +38,6 @@ Even if this slight ambiguity is too much for Apple to handle, they could instea
 
 Whether Apple chooses to implement this feature as “Mark as Unread”, flagging, or something else entirely, they should implement it, and soon. As more of our communication, both personal and professional, moves online, it’s never been more important that we keep our commitments to each other, that we respond when we say we will, and that we keep dialogue flowing. **We’ve long had a great tool for doing exactly that; now that took just needs to meet users where they are.**
 
-*This article has also been filed as feedback for Apple at [FB9838778](apple-feedback://FB9838778).*
+*This article has also been filed as feedback for Apple at [FB9838778](applefeedback://FB9838778).*
+
+**Update:** After posting this article, a friend at Apple reminded me that one of the first things he did when he got to the company was try to file a radar for this missing feature. Except he didn’t have to because he found an open bug from yours truly filed in 2009. I’ve been asking for this feature for 12 years and I don’t plan to stop any time soon! Maybe I should try [this approach](https://twitter.com/jomayra_herrera/status/1420404364276084741) next.

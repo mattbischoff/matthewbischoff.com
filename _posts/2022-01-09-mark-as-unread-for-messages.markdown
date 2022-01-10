@@ -20,7 +20,7 @@ For decades, email apps like Gmail, Outlook, and Apple Mail have all included a 
 
 There’s a simple answer: **it’s useful**! The unread state of messages in an email app controls things like the number next to the current folder, the application’s badge, and the status indicator next to a message reminding you to look at it. A simple button to say “Oh yep, I know I clicked into it, but I didn't actually read it or fully process it yet” is a great affordance for users to manage their communications that has stood the test of time. While some argue that [flags should be used](https://www.forbes.com/sites/forbestechcouncil/2018/07/11/how-mark-as-unread-is-making-you-drop-the-ball/?sh=1dda8b98389e) instead for this kind of message management, they miss the point that flags cannot and do not convey, to either the user or the software, the same meaning as a message being unread.
 
-“Mark as Unread” has been so successful and well-loved in email that it’s been copied by many messaging apps like Facebook Messenger, WhatsApp, and Instagram. And its utility in a casual messaging context is much the same in the slightly more formal email context.
+“Mark as Unread” has been so successful and well-loved in email that it’s been copied by many messaging apps like Facebook Messenger, WhatsApp, and Telegram. And its utility in a casual messaging context is much the same in the slightly more formal email context.
 
 As Tine Welanly put it [on Quora](https://www.quora.com/What-is-the-point-of-having-mark-as-unread-option-in-Facebook-messenger):
 
@@ -28,7 +28,7 @@ As Tine Welanly put it [on Quora](https://www.quora.com/What-is-the-point-of-hav
 
 But the [most popular messaging app on iOS](https://www.wsj.com/articles/why-apples-imessage-is-winning-teens-dread-the-green-text-bubble-11641618009), Messages, has never implemented “Mark as Unread” even though [users have been clamoring for it for years](https://twitter.com/search?q=%22mark%20as%20unread%22%20imessage&src=typed_query&f=live). What’s even wilder is that iMessage doesn’t have any other in-app way for the user to signal that they need to return to a message in order to respond to it. The only gesture toward anything like this is an obscure [Siri integration](https://support.apple.com/en-us/HT205890).
 
-Messages routinely get forgotten and go unanswered. The missing “Mark Unread” button has no doubt caused countless accidental ghostings, avoidable arguments, and missed opportunities. And its lack has likely made life more difficult for users  with conditions that affect memory or follow-through, like ADHD and depression, who may not be able to respond in the moment and have no easy way to record their intention to do so.
+Messages routinely get forgotten and go unanswered. The missing “Mark Unread” button has no doubt caused countless accidental ghostings, avoidable arguments, and missed opportunities. And its lack has likely made life more difficult for users with conditions that affect memory or follow-through, like ADHD and depression, who may not be able to respond in the moment and have no easy way to record their intention to do so.
 
 So why hasn’t Apple added this feature? If I put on my Product Manager hat, I can think of only one argument that’s likely been made internally to keep this wildly popular feature out of the app. It goes like this: “If we add a button that says mark as unread, wouldn't users expect that it would unsend their read receipts?”
 

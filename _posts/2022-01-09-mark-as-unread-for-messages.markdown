@@ -20,7 +20,7 @@ For decades, email apps like Gmail, Outlook, and Apple Mail have all included a 
 
 There’s a simple answer: **it’s useful**! The unread state of messages in an email app controls things like the number next to the current folder, the application’s badge, and the status indicator next to a message reminding you to look at it. A simple button to say “Oh yep, I know I clicked into it, but I didn't actually read it or fully process it yet” is a great affordance for users to manage their communications that has stood the test of time. While some argue that [flags should be used](https://www.forbes.com/sites/forbestechcouncil/2018/07/11/how-mark-as-unread-is-making-you-drop-the-ball/?sh=1dda8b98389e) instead for this kind of message management, they miss the point that flags cannot and do not convey, to either the user or the software, the same meaning as a message being unread.
 
-“Mark as Unread” has been so successful and well-loved in email that it’s been copied by many messaging apps like Facebook Messenger, WhatsApp, and Telegram. And its utility in a casual messaging context is much the same in the slightly more formal email context.
+“Mark as Unread” has been so successful and well-loved in email that it’s been copied by many messaging apps like Facebook Messenger, WhatsApp, and Instagram. And its utility in a casual messaging context is much the same in the slightly more formal email context.
 
 As Tine Welanly put it [on Quora](https://www.quora.com/What-is-the-point-of-having-mark-as-unread-option-in-Facebook-messenger):
 

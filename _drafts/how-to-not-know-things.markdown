@@ -11,7 +11,7 @@ My training for the job involved being clapped at a lot while donning the signat
 
 JB taught us that there was no way we could know everything there is to know about every Apple product, let alone every app that runs on them, and every way they can fail. He taught us that rather than making up an answer, guessing, or shrugging our shoulders, we should instead say, “I don’t know, let’s find out”. Admitting that we didn’t know was the first step. Then we were to find out *together* with the customer. He told us we should walk over to a Mac and look up the answer while talking through our thought process or pulling aside another employee who might know that was the Apple way.
 
-This one sentence from an retail training manual contains so many insights that I’ve relied on every day since in my personal and professional life:
+This one sentence from a retail training manual contains so many insights that I’ve relied on every day since in my personal and professional life:
 
 1. It’s okay not to know because we cannot know everything, and we shouldn’t expect that of ourselves.
 

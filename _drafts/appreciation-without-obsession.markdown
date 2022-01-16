@@ -3,6 +3,8 @@ title: Appreciation without Obsession
 date: 2022-01-15 16:35:00 -05:00
 ---
 
+You don’t have to be the everything guy. In fact you can’t be and that’s okay.
+
 I’m a nerd about a lot of things: pens, musicals, cocktails, iOS applications, the list goes on. These are subjects that I have read deeply on, developed my own opinions and taste on, and gotten good at in some form or fashion over years of practice. It’s fun to be nerdy about things; especially when they’re things you can appreciate with other people, find community around, and brighten up little corners of the world with.
 
 But for all the things I _am_ nerdy about, there are so many more things that I’m just not. There simply isn’t time to be a nerd about everything, and even if there was, I just don’t care about everything to that degree. And that’s a good thing. 

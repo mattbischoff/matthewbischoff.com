@@ -35,7 +35,7 @@ This one sentence from a retail training manual contains many insights that I’
 5. Learning is better together.
 6. People love to see and share in the process of discovery.
 7. People trust information more when we share the *way* we found it.
-8. Memorization isn’t as important as knowing how and where to look things up.
+8. Memorizing isn’t as important as knowing how and where to look things up.
 
 ### Fuck around and find out
 

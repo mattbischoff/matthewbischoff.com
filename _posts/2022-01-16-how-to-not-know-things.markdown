@@ -1,6 +1,6 @@
 ---
 title: How to Not Know Things
-date: 2022-01-16 15:15:00 -05:00
+date: 2022-01-16 15:55:00 -05:00
 categories:
 - culture
 tags:

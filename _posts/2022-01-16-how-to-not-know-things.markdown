@@ -39,7 +39,7 @@ This one sentence from a retail training manual contains many insights that I’
 
 ### Fuck around and find out
 
-This is another similar phrase that’s become popular since 2020, especially sarcastically in leftist circles. But it’s legitimately a valuable corollary because sometimes, no amount of Googling or reading about a topic will get you to the answer. Sometimes, trial and error is the only way to learn. By experimenting or [fucking around](https://knowyourmeme.com/memes/fuck-around-and-find-out), we learn together by *playing together*. We do a little science and discover something new about the world that we can share.
+This is another similar phrase that’s become popular since 2020, especially sarcastically in leftist circles. But it’s legitimately valuable advice because sometimes, no amount of Googling or reading about a topic will get you to the answer. Sometimes, trial and error is the only way to learn. By experimenting or [fucking around](https://knowyourmeme.com/memes/fuck-around-and-find-out), we learn together by *playing together*. We do a little science and discover something new about the world that we can share.
 
 Many of the answers to life’s daily questions can be uncovered using these [thought technologies](/thought-technology/). Are you faced with a tricky question in an interview for a new job? Try being honest with the interviewer that you don’t know the answer and explain how you’d research it in detail. Not sure what your gender is? As [Mattie Lubchansky](https://twitter.com/Lubchansky) suggested on a [recent live episode of the Gender Reveal podcast](https://gender.libsyn.com/episode-102-live-in-nyc), “fuck around and find out”. Try on makeup, a new set of pronouns, or a binder, and see how it feels!
 

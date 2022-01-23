@@ -14,6 +14,11 @@ description: You don’t have to complete everything. You don’t need to be in 
   someone who knows their worth and knows what they want. Letting go of one thing
   can give you space to start something new that will serve you better. And if you
   regret your decision, it’ll still be there when you’re ready to pick it up again.
+picture:
+  webp_image: "/uploads/Books.webp"
+  width: 2048
+  height: 1356
+  alt: Stack of Books
 ---
 
 I’m a [completionist](https://www.macmillandictionary.com/us/dictionary/american/completionist) by nature. I love checking everything off my to-do list for the day. When I discover a [blog](https://randsinrepose.com), [podcast](http://genderpodcast.com), or [webcomic](https://questionablecontent.net) I love, my curiosity pulls me toward consuming its entire backlog. I spend hours spelunking the archives, finishing every last morsel of media.

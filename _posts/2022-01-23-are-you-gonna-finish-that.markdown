@@ -22,6 +22,8 @@ picture:
   alt: Stack of Books
 ---
 
+{% include picture.html %}
+
 I’m a [completionist](https://www.macmillandictionary.com/us/dictionary/american/completionist) by nature. I love checking everything off my to-do list for the day. When I discover a [blog](https://randsinrepose.com), [podcast](http://genderpodcast.com), or [webcomic](https://questionablecontent.net) I love, my curiosity pulls me toward consuming its entire backlog. I spend hours spelunking the archives, finishing every last morsel of media.
 
 Growing up, I attended Catholic school and was taught by nuns to finish my lunch because there were [children starving halfway across the world](https://en.wikipedia.org/wiki/List_of_fallacies#Fallacy_of_relative_privation). I was taught to complete one book before starting the next. Taught to give equal attention to every [station of the cross](https://en.wikipedia.org/wiki/Stations_of_the_Cross).

@@ -16,6 +16,7 @@ description: You don’t have to complete everything. You don’t need to be in 
   regret your decision, it’ll still be there when you’re ready to pick it up again.
 picture:
   webp_image: "/uploads/Books.webp"
+  jpeg_image: "/uploads/Books.jpg"
   width: 2048
   height: 1356
   alt: Stack of Books

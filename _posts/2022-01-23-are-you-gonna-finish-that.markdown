@@ -1,6 +1,6 @@
 ---
 title: Are You Gonna Finish That?
-date: 2022-01-22 19:01:00 -05:00
+date: 2022-01-23 19:01:00 -05:00
 categories:
 - culture
 tags:

@@ -43,7 +43,7 @@ You can [contact Matt here](/contact) or find them online in all of these places
 
 🐦 [Twitter](https://twitter.com/mb)  
 🌅 [Instagram](https://instagram.com/mattb)  
-📷 [Glass](https://glass.photo/mattb)
+📷 [Glass](https://glass.photo/mattb)  
 📺 [YouTube](https://youtube.com/matthewbischoffdotcom)  
 👍 [Facebook](https://facebook.com/matthewbischoff)  
 💼 [LinkedIn](https://www.linkedin.com/in/matthewbischoff)  

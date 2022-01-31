@@ -31,7 +31,7 @@ The more insidious thing about these bugs is that they’re rarely reported by u
 
 What kinds of things should you be looking for? How can we notice paper cuts when they’re such a part of our daily reality in every app we use? Here’s a list of some of the most frequent paper cuts I see. I hope it helps in your quest to smooth out the edges of your software—to [paint the back of the fence.](https://www.linkedin.com/pulse/paint-back-fence-chris-clark/)
 
-## Common Paper Cuts
+### Common Paper Cuts
 
 * **Logouts**: When I open the app, sometimes I’m randomly logged out for no good reason.
 * **Inconsistent Copy**: The text switches randomly between straight quotes and smart quotes or title case and sentence cases.

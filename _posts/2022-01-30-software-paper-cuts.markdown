@@ -14,8 +14,8 @@ description: 'Running up against a paper cut bug feels a little bit like getting
   tiny annoyances accrete over time, especially when no one is paying attention to
   them.'
 picture:
-  width: 2048 
-  height: 1536
+  width: 1800
+  height: 1200
   alt: The word ouch written on a pink background
 ---
 

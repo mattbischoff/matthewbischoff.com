@@ -38,8 +38,8 @@ Variables
   --color-default: #131314;
   --color-mid: #4e4f53;
   --color-dim: #7f8088;
-  --color-link: rgba(var(--rgb-accent), 1);
-  --color-accent: rgba(var(--rgb-accent), 1);
+  --color-link: #269FD3;
+  --color-accent: #269FD3;
   --color-link-underline: rgba(var(--rgb-accent), 0.7);
 }
 

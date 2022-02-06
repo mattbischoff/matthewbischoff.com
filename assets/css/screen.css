@@ -179,10 +179,9 @@ time, time > a {
 }
 
 blockquote {
-  font-family: var(--font-serif);
   font-style: italic;
-  padding-left: var(--spacing-m);
-  border-left: 2px solid var(--color-mid);
+  padding-left: var(--spacing-s);
+  border-left: 2px solid var(--color-accent);
 }
 
 blockquote em {

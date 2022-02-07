@@ -31,7 +31,7 @@ Powerpoint presentations get a bad reputation. That’s because most of them are
 
 On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
 
-So it’s no wonder I haven’t seen many slide decks while working on small-to-medium-size software teams. And the ones I do are usually delivered by [professional hypesters trying to pitch their startup](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), eliciting cringes from the software engineers and designers in the room (or the Zoom, as the case may be). But earlier in my career as a builder, I used decks to great effect, and you know what? I miss them. In 2022, [I’m bringing back the deck](https://matthewbischoff.com/about/#talks). *Deck Back Better, baby!*
+So it’s no wonder I haven’t seen many slide decks while working on small  software teams. And the ones I do are usually delivered by [professional hypesters trying to pitch their startup](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), eliciting cringes from the software engineers and designers in the room (or the Zoom, as the case may be). But earlier in my career as a builder, I used decks to great effect, and you know what? I miss them. In 2022, [I’m bringing back the deck](https://matthewbischoff.com/about/#talks). *Deck Back Better, baby!*
 
 * * *
 

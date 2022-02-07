@@ -16,7 +16,7 @@ Variables
   --font-l: 1.5rem;
   --font-xl: 1.85rem;
 
-  --font-line-height: calc(var(--font-default) * 1.6);
+  --font-line-height: calc(var(--font-default) * 1.65);
   --font-letter-spacing: -0.02rem;
 
   --spacing-xs: calc(var(--font-line-height) * 0.25);

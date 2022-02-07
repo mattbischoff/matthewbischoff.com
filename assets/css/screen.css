@@ -5,7 +5,7 @@ Variables
 :root {
   --font-serif: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif, Georgia,
     serif;
-  --font-sans: proxima-nova, -apple-system, ui-sans-serif, Helvetica, Arial,
+  --font-sans: -apple-system, proxima-nova, ui-sans-serif, Helvetica, Arial,
     sans-serif;
   --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
     Consolas, Inconsolatas, monospace;

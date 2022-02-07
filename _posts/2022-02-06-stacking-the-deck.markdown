@@ -27,7 +27,7 @@ picture:
 
 {% include picture.html %}
 
-**PowerPoint presentations get a bad reputation.** That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
+**PowerPoint presentations get a bad reputation.** That’s because [most of them are terrible](https://en.wikipedia.org/wiki/Sturgeon's_law)—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
 
 On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
 

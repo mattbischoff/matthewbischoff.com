@@ -37,7 +37,9 @@ So it’s no wonder I haven’t seen many slide decks while working on small-to-
 
 When my longtime friend and collaborator [Brian Capps](http://briancapps.org) and I worked as iOS engineers and leads at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
 
-So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product managers, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. **Here’s what we did when we really wanted something to get fixed**: 
+So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product managers, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. 
+
+**Here’s what we did when we really wanted something to get fixed**: 
 
 Brian and I would book a conference room together in the middle of the day, write an outline of what we wanted, and then develop a [well-designed and straightforward slide presentation](https://www.presentationzen.com) to make our argument. (*By the way, we never told our bosses we were doing any of this.*) We’d [rehearse our spiel](https://randsinrepose.com/archives/out-loud/) and then, we’d presell the idea by showing the deck to just a few people we knew would be critical decision-makers and solicit feedback, editing the deck as we heard their objections. Finally, we’d book a meeting with everyone in the organization who would need to be on board if we were going to make the change. 
 

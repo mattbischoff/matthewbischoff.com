@@ -18,13 +18,13 @@ description: So it’s no wonder I haven’t seen many slide decks while working
   as a builder, I used decks to great effect, and you know what? I miss them. In 2022,
   I’m bringing back the deck.
 picture:
-  webp_image: "/uploads/release-notes-2016.jpg"
+  jpeg_image: "/uploads/release-notes-2016.jpg"
   width: 1200
   height: 1096
   alt: A photo by Ben McCarthy of Mat on stage presenting
 ---
 
-![A photo by Ben McCarthy of Mat on stage presenting](/uploads/release-notes-2016.jpg)
+{% include picture.html %}
 
 Powerpoint presentations get a bad reputation. That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
 

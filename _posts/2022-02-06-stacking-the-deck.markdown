@@ -29,7 +29,7 @@ picture:
 
 **PowerPoint presentations get a bad reputation.** That’s because [most of them are terrible](https://en.wikipedia.org/wiki/Sturgeon's_law)—they’re boring, they’re too long, and they’re full of tiny text and awkward animations.
 
-On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you the company’s latest products. These decks are so intricate seem impossible for mere mortals to put together.
+On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you the company’s latest products. These decks are so intricate that they seem impossible for mere mortals to put together.
 
 So it’s no wonder I don’t see many slide decks working on small software teams. The few I do are usually delivered by [professional hypesters pitching startups](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), to cringes from the designers and developers in the room (or the [Zoom](https://zoom.us), as the case may be). But earlier in my career, [I used decks to great effect](/about#talks), and you know what? I miss them. In 2022, [I’m bringing decks(y) back](https://en.wikipedia.org/wiki/SexyBack).
 

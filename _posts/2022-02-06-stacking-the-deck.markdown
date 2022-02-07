@@ -51,4 +51,4 @@ This technique worked so well that we used it repeatedly, improving the app alon
 
 **Presentations are made for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. Putting effort into them shows that you’re serious and that you care. <mark>Anyone can write an email, post a Slack message, or toss a meeting on the books. But few people will take the time to prepare a thoughtful, well-reasoned, and persuasive deck.</mark>
 
-The next time you want to convince your coworkers, despite their differing priorities, to commit to working on something you care about: **open your slideshow app of choice and make your argument in big type, one slide at a time**. I bet your slides will change more minds than you expect.
+The next time you want to convince your coworkers, despite their differing priorities, to commit to working on something you care about: <mark>open your slideshow app of choice and make your argument in big type, one slide at a time.</mark> I bet your slides will change more minds than you expect.

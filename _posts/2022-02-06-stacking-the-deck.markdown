@@ -10,7 +10,7 @@ tags:
 - keynote
 - talks
 - slides
-image: "/uploads/release-notes-2016.jpg"
+image: "/uploads/release-notes-2016-196b9b.jpg"
 description: So it’s no wonder I haven’t seen many slide decks while working on small-
   to medium-sized software teams. And the ones I do are usually delivered by professional
   hypesters trying to pitch their startup, eliciting cringes from the software engineers
@@ -18,7 +18,8 @@ description: So it’s no wonder I haven’t seen many slide decks while working
   as a builder, I used decks to great effect, and you know what? I miss them. In 2022,
   I’m bringing back the deck.
 picture:
-  jpeg_image: "/uploads/release-notes-2016.jpg"
+  webp_image: "/uploads/release-notes-2016.webp"
+  jpeg_image: "/uploads/release-notes-2016-196b9b.jpg"
   width: 1200
   height: 1096
   alt: A photo by Ben McCarthy of Mat on stage presenting

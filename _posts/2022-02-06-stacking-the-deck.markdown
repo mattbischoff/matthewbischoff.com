@@ -27,7 +27,7 @@ picture:
 
 {% include picture.html %}
 
-**Powerpoint presentations get a bad reputation**. That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
+**Powerpoint presentations get a bad reputation.** That’s because most of them are terrible—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
 
 On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
 
@@ -35,7 +35,7 @@ So it’s no wonder I haven’t seen many slide decks while working on small sof
 
 * * *
 
-When my longtime friend and collaborator [Brian Capps](http://briancapps.org) and I worked as iOS engineers and leads at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
+When my longtime friend and collaborator [Brian Capps](http://briancapps.org) and I worked as iOS engineers at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
 
 So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product managers, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. 
 

@@ -22,22 +22,22 @@ picture:
   jpeg_image: "/uploads/release-notes-2016-196b9b.jpg"
   width: 1200
   height: 1096
-  alt: A photo by Ben McCarthy of Mat on stage presenting
+  alt: A photo by Ben McCarthy of Matt presenting a slideshow onstage
 ---
 
 {% include picture.html %}
 
-**PowerPoint presentations get a bad reputation.** That’s because [most of them are terrible](https://en.wikipedia.org/wiki/Sturgeon's_law)—they’re boring, they’re too long, and they’re full of tiny text and crammed with awkward animations.
+**PowerPoint presentations get a bad reputation.** That’s because [most of them are terrible](https://en.wikipedia.org/wiki/Sturgeon's_law)—they’re boring, they’re too long, and they’re full of tiny text and awkward animations.
 
-On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you on their latest technology. These seem impossible for mere mortals to put together.
+On the other end of the spectrum, there are the [highly-produced Keynotes from Apple](https://medium.com/adventures-in-consumer-technology/this-is-how-we-make-slides-at-apple-b8a84352bf6d) that have been agonized over by legions of designers to sell you the company’s latest products. These decks are so intricate seem impossible for mere mortals to put together.
 
 So it’s no wonder I don’t see many slide decks working on small software teams. And the ones I do are usually delivered by [professional hypesters pitching their startup](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/), to cringes from the designers and developers in the room (or the [Zoom](https://zoom.us), as the case may be). But earlier in my career, [I used decks to great effect](/about#talks), and you know what? I miss them. In 2022, [I’m bringing decks(y) back](https://en.wikipedia.org/wiki/SexyBack).
 
 * * *
 
-When my longtime friend and collaborator [Brian Capps](http://briancapps.org) and I worked as iOS engineers and leads at *[The New York Times](https://nytimes.com)*, we noticed something interesting. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from user bug reports, to performance issues, to new features that needed support from the newsroom got backed up this way.
+When my longtime friend and collaborator [Brian Capps](http://twitter.com/bcapps) and I worked as iOS engineers at *[The New York Times](https://nytimes.com)*, we noticed something concerning. There were a lot of intractable technical problems in the organization that seemed unsolvable due to politics and inter-team communication roadblocks. Everything from bug reports, to performance issues, to new features that needed newsroom buy-in got backed up this way.
 
-So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product managers, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. 
+So, as people who cared deeply about the quality of the products we were building, we searched for any way to get product people, designers, and business folks all on the same page about what we wanted to fix in the iOS app. The best tool we found (after trying many) was the humble slide deck. 
 
 **Here’s what we did when we really wanted something to get fixed**: 
 
@@ -49,6 +49,6 @@ This technique worked so well that we used it repeatedly, improving the app alon
 
 * * *
 
-**Presentations are made for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. Putting effort into them shows that you’re serious and that you care. <mark>Anyone can write an email, post a Slack message, or toss a meeting on the books. But few people will take the time to prepare a thoughtful, well-reasoned, and persuasive deck.</mark>
+**Presentations are perfect for persuasion.** Solid slides make information digestible; they show that you’ve thought deeply about the problem. And putting effort into them shows that you’re serious and that you care. <mark>Anyone can write an email, post a Slack message, or toss a meeting on the books. But few people will take the time to prepare a thoughtful, well-reasoned, and persuasive deck.</mark>
 
 The next time you want to convince your coworkers, despite their differing priorities, to commit to working on something you care about: <mark>open your slideshow app of choice and make your argument in big type, one slide at a time.</mark> I bet your slides will change more minds than you expect.

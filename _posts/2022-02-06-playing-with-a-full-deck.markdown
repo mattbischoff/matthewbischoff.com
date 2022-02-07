@@ -1,5 +1,5 @@
 ---
-title: Playing with a Full Deck
+title: Stacking the Deck
 date: 2022-02-06 23:55:00 -05:00
 categories:
 - tech

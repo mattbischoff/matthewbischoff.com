@@ -18,10 +18,10 @@ description: So it’s no wonder I haven’t seen many slide decks while working
   as a builder, I used decks to great effect, and you know what? I miss them. In 2022,
   I’m bringing back the deck.
 picture:
-  webp_image: "/uploads/presentation-7b380d.webp"
+  webp_image: "/uploads/release-notes-2016.jpg"
   width: 1200
   height: 1096
-  alt: A screenshot of a recent talk I gave.
+  alt: A photo by Ben McCarthy of Mat on stage presenting
 ---
 
 ![A photo by Ben McCarthy of Mat on stage presenting](/uploads/release-notes-2016.jpg)

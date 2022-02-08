@@ -5,7 +5,7 @@ Variables
 :root {
   --font-serif: ff-tisa-web-pro, -apple-system-ui-serif, ui-serif, Georgia,
     serif;
-  --font-sans: -apple-system, proxima-nova, ui-sans-serif, Helvetica, Arial,
+  --font-sans: proxima-nova, -apple-system, ui-sans-serif, Helvetica, Arial,
     sans-serif;
   --font-mono: -apple-system-ui-monospace, -ui-monospace, SFMono-Regular, Menlo,
     Consolas, Inconsolatas, monospace;
@@ -297,7 +297,7 @@ mark {
   background: rgba(var(--rgb-accent), 0.3);
   color: inherit;
   border-radius: var(--border-radius);
-  padding: 0.17em 0.25em;
+  padding: 0.197em 0.25em;
 }
 
 abbr[title],

@@ -62,7 +62,7 @@ I include widgets from:
 
 ![Apple Watch Lock Screen Screenshot](/uploads/watch.PNG)
 
-The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
+The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info on screen at once.
 
 🌎 **Earth**: Looks cool and reminds me I’m in the travel mode   
 ✈️ [**App in the Air**](https://www.appintheair.mobi): Flighty doesn’t have a watch app, so I use this to check boarding info from my wrist  

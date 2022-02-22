@@ -10,7 +10,7 @@ tags:
 - ios
 - features
 - automation
-image: "/uploads/IMG_A89BAEEA3FEE-1.jpeg"
+image: "/uploads/travel-homescreen.PNG"
 description: Last summer, I visited Toronto to see my wife after being separated by
   pandemic-related border closures for months. While preparing for the trip, I realized
   that no matter how much I travel, it’s always a little stressful and now moreso

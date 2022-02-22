@@ -1,5 +1,5 @@
 ---
-title: Travel Focus Mode
+title: The Travel Focus Mode
 date: 2022-02-22 15:54:00 -05:00
 categories:
 - tech

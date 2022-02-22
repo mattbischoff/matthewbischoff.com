@@ -19,6 +19,8 @@ description: Last summer, I visited Toronto to see my wife after being separated
   bags while my phone buzzes with irrelevant notifications and my heart rate skyrockets.
   So, I decided to use the trip as a test of the iOS 15 Focus feature and make travel
   less anxiety-inducing in the process.
+picture:
+  png_image: "/uploads/travel-homescreen.PNG"
 ---
 
 Last summer, I visited Toronto to see [my wife](https://twitter.com/girly_juice) after being separated by pandemic-related border closures for months. While preparing for the trip, I realized that no matter how much I travel, it’s always a little stressful and now moreso with the addition of necessary safety measures like testing and vaccine checks. Add the difficulties of quickly finding boarding passes, managing delays, and tracking bags while my phone buzzes with irrelevant notifications and my heart rate skyrockets. So, I decided to use the trip as a test of the [iOS 15 Focus feature](https://support.apple.com/en-us/HT212608) and make travel less anxiety-inducing in the process.

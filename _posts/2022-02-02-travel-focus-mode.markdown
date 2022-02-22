@@ -31,7 +31,7 @@ I found that this automation made the process of international air travel a lot 
 
 *[Set up in Settings → Focus](https://support.apple.com/en-us/HT212608)*
 
-![travel-focus.PNG](/uploads/travel-focus.PNG)
+![Travel Focus Settings Screenshot](/uploads/travel-focus.PNG)
 
 🔴 **Allowed Notifications**: Messages from friends, family, Find My, Kindle, Flighty, App in The Air, Uber, and any time-sensitive notifications  
 ⛔️ **Focus Status**: Off. I don’t need to telegraph to the whole world that I’m unavailable because I still check other notifications, just less frequently  
@@ -43,7 +43,7 @@ I found that this automation made the process of international air travel a lot 
 
 *[Create and hide a home screen](https://support.apple.com/en-me/HT211345) via the page dots while in editing mode*
 
-![travel-homescreen.PNG](/uploads/travel-homescreen.PNG)
+![Travel Home Screen Screenshot](/uploads/travel-homescreen.PNG)
 
 I include widgets from:
 
@@ -58,7 +58,7 @@ I include widgets from:
 
 *Set up in the [Apple Watch app](https://support.apple.com/guide/watch/faces-and-features-apde9218b440/watchos) or on your watch, then [use Shortcuts automation](https://appleinsider.com/articles/20/09/28/how-to-automatically-change-apple-watch-faces-at-certain-times-or-places) to change to it when in the Travel focus*
 
-![watch.PNG](/uploads/watch.PNG)
+![Apple Watch Lock Screen Screenshot](/uploads/watch.PNG)
 
 The watch displays what I need to glance at most while in line or moving around the airport. I use the Infograph Modular face to pack a lot of info onscreen at once.
 

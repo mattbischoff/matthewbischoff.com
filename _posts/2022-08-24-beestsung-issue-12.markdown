@@ -7,7 +7,6 @@ categories:
 tags:
 - poetry
 - me
-- Matthew Bischoff
 image: "/uploads/beestung.png"
 description: "I’ve been a fan of beestung magazine, a quarterly publication that published
   poetry by nonbinary writers since I discovered it a few years ago. This week, they

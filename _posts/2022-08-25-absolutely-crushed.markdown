@@ -20,7 +20,7 @@ picture:
   alt: Absolutely Crushed album art
 ---
 
-In more [mb](https://twitter.com/mb)-media news: earlier this year I launched a new podcast with my friend [Syd Andrerson](https://twitter.com/syd_andyson), called **[Absolutely Crushed](https://absolutelycrushed.com)**. It’s a bi-weekly comedy interview show in which we interview a guest about their biggest celebrity or character crush and hilarity ensues. 
+In more [mb](https://twitter.com/mb)-media news: earlier this year I launched a new podcast with my friend [Syd Andrerson](https://twitter.com/syd_andyson), called **[Absolutely Crushed](https://absolutelycrushed.com)**. It’s a bi-weekly comedy interview show in which we gossip with a guest about their biggest celebrity or character crush and hilarity ensues. 
 
 Imagine you’re at a sleepover with your closest friends talking about that hot person they have a crush on and lightly teasing them about it while figuring out what makes their crush so attractive. It’s like that, but with interesting guests and crushes you know. This week’s guest is Syd’s girlfriend Quinn Rose, and we cover her crush on Aaron Tveit. It’s a [great episode to start with](https://absolutelycrushed.com/episodes/quinn-rose-aaron-tveit).
 

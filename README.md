@@ -49,3 +49,12 @@ name: animals
 ## How To
 
 * Serve the site locally: `bundle exec jekyll serve`
+
+
+### Inspo
+
+* https://justin.searls.co
+* https://jmduke.com
+* https://ped.ro
+  * https://ped.ro/writing/website-refresh-2023
+* https://benji.org 

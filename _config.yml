@@ -5,6 +5,9 @@ collections:
   category:
     title: Categories
     output: true
+  formats:
+    title: Formats
+    output: true
   posts:
     title: Posts
     output: true

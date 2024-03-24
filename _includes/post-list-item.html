@@ -1,0 +1,6 @@
+{% assign date_format = date_format | default:  "%Y-%m-%d"  %}
+
+<li>
+	<a href="{{ post.url }}">{{ post.title }}</a>
+	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+</li>

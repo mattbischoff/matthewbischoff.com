@@ -1,13 +1,11 @@
 {
   "actions" : {
     "build" : {
-      "enabled" : true,
-      "script" : "docker-compose build"
+      "enabled" : true
     },
     "run" : {
       "enabled" : true,
-      "script" : "docker-compose up"
+      "script" : "bundle exec jekyll serve"
     }
-  },
-  "identifier" : "A77D613A-19B3-4E55-935A-0E27FEF0304E"
+  }
 }

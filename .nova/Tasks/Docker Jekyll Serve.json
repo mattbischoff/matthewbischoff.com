@@ -1,0 +1,8 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "open -a Docker\nbundle exec docker run --rm \\\n-p 4000:4000 \\\n-v ${PWD}:\/src\/site \\\ngh-pages \\\nsh -c \"bundle install && jekyll serve -H 0.0.0.0 -P 4000\""
+    }
+  }
+}

@@ -1,11 +1,10 @@
 /* TEAM */
-Designer:     Matthew Bischoff
+Designer:     mb bischoff
 Contact:      mb@matthewbischoff.com
 Twitter:      @mb
-Facebook:     http://facebook.com/matthewbischoff
 
 /* SITE */
-Last update:  12/17/2020
+Last update:  2024-03-24
 Language:     English
 Doctype:      HTML5
 Tools:        HTML, CSS, Github Pages
